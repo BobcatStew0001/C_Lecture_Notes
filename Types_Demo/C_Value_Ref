@@ -1,0 +1,20 @@
+﻿namespace  Types_Demo
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{// This is a comment//
+	//variables 
+	//type+name+value
+	//word types
+	string zachsName = "Zach Brown"; //we use camel casing meaning the middle letter of the 2nd word is capital
+	//C# is a strongly and statically typed language
+	//String requires ("")double quotes
+	char middleInitial = 'P';
+	//char requires ('') single quotes and a single character
+	Console.WriteLine(zachsName);
+	Console.WriteLine(middleInitial);
+	
+		}
+	}
+}
