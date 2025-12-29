@@ -8,14 +8,14 @@
 			
 			// Arithmetic Operators: 
 
-			//int addition = 5 + 5;
-			//int subtraction = 7 - 5;
-			//int multiplication = 9 * 5;
-			//int division = 10 / 5;
-			//int modulus = 6 % 5; // remainder after division, good for checking if a number is even or odd
+			int addition = 5 + 5;
+			int subtraction = 7 - 5;
+			int multiplication = 9 * 5;
+			int division = 10 / 5;
+			int modulus = 6 % 5; // remainder after division, good for checking if a number is even or odd
 			
-			//bool isEven = 4 % 2  == 0;  // (==) is the comparison operator is 2 == 2
-			//bool isEven = 5 % 2 == 0; // If you need a decimal
+			bool isEven = 4 % 2  == 0;  // (==) is the comparison operator is 2 == 2
+			bool isEven = 5 % 2 == 0; // If you need a decimal
 			
 			//Unary Operators
 			int x = 3; 
